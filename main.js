@@ -1,1 +1,1 @@
-console.log("Hola colombia")
+console.log("Hola clase")
